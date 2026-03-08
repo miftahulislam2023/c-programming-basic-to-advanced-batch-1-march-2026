@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Alhamdulillah. I am learning C!\n");
+    printf("Habijabi apnara khub fakibaj!\n");
     return 0;
 }

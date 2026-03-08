@@ -38,3 +38,25 @@
 1. প্রতিটি C program এক বা একাধিক functions দিয়ে গঠিত হয়, যার প্রতিটিতে এক বা একাধিক statements থাকে। C-তে function হলো একটি named subroutine যা program-এর অন্যান্য অংশ থেকে call করা যায়। Function-গুলো হলো C-এর building blocks।
 2. একটি statement program-এর নির্দিষ্ট একটি action ডিভাইন করে। সহজ কথায়, statement হলো আপনার program-এর সেই অংশ যা আসলে operations পারফর্ম করে। সব C statement একটি semicolon দিয়ে শেষ হয়।
 3. C লাইনের শেষকে terminator হিসেবে গণ্য করে না। এর মানে হলো, একটি লাইনের কোথায় statement বসবে তার কোনো ধরাবাঁধা নিয়ম নেই। আপনি চাইলে এক লাইনে একাধিক statement-ও লিখতে পারেন।
+
+## What We Will Learn
+1. Basic I/O Operations
+2. Variables and Data Types
+3. Program Control Statements
+   1. if else
+   2. switch
+   3. loops
+      1. while
+      2. do while
+      3. for
+4. Arrays and Strings
+5. Pointers
+6. Functions
+7. Console I/O
+8. File I/O
+9. Structures and Unions
+10. Advanced Data Types and Operators
+11. Preprocessors
+12. DSA
+    1.  stack
+    2.  queue
