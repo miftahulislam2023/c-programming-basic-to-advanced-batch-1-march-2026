@@ -1,5 +1,5 @@
 # Class - 2
 
 ```bash
-gcc hello-world.c -o hello-world
+gcc first.c -o first
 ```
