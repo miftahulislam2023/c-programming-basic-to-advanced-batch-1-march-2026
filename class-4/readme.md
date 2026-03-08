@@ -5,6 +5,7 @@
 - অন্যান্য ফাংশন
 
 ## Some important sign and symbols
+```
 1. - hyphen, dash
 2. ` back tick
 3. ~ tilde
@@ -30,6 +31,7 @@
 23. . dot
 24. -> arrow
 25. % percentage, modulus
+```
 
 ## Components
 - সব C program-এই কিছু সাধারণ components এবং বৈশিষ্ট্য থাকে।
