@@ -4,7 +4,7 @@
 - main() function
 - অন্যান্য ফাংশন
 
-## Some important sign and symbols
+## Some important signs and symbols
 ```
 1. - hyphen, dash
 2. ` back tick
@@ -31,6 +31,7 @@
 23. . dot
 24. -> arrow
 25. % percentage, modulus
+26. # hash
 ```
 
 ## Components
