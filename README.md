@@ -35,3 +35,10 @@
 | Class 29 | [class-29/readme.md](class-29/readme.md) |
 | Class 30 | [class-30/readme.md](class-30/readme.md) |
 | Class 31 | [class-31/readme.md](class-31/readme.md) |
+
+
+## Programming শেখার জন্য নির্দেশিকা
+1. ভয় পাওয়া যাবে না
+2. প্রচুর বেশি পরিশ্রম করতে হবে
+3. আপনি শুরুতেই পারবেন না 
+4. DON'T USE AI -> CODE YOURSELF
